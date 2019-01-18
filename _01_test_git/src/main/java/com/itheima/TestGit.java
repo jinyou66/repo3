@@ -8,4 +8,10 @@ public class TestGit {
         System.out.println("hello");
         System.out.println("help");
     }
+
+    public void test(){
+
+        System.out.println("wolaile");
+
+    }
 }
